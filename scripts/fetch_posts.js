@@ -4,8 +4,8 @@ const xml2js = require("xml2js");
 const { google } = require("googleapis");
 
 // ================= CONFIG =================
-const FLARESOLVERR_URL = "https://your-ngrok-url/v1";
-const FOLDER_ID = "YOUR_GOOGLE_DRIVE_FOLDER_ID";
+const FLARESOLVERR_URL = "https://mabelle-supervenient-talitha.ngrok-free.dev/v1";
+const FOLDER_ID = "1cRW-KEdJlOAHBmVrPqFwc7O2Ol3KSA9R";
 
 // Load credentials from GitHub Secret
 const creds = JSON.parse(process.env.GOOGLE_CREDENTIALS);
