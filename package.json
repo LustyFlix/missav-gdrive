@@ -1,0 +1,8 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "dependencies": {
+    "xml2js": "^0.6.2",
+    "googleapis": "^137.0.0"
+  }
+}
